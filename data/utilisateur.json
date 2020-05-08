@@ -1,0 +1,108 @@
+[
+    {
+        "prenom": "admin",
+        "nom": "admin",
+        "login": "admin",
+        "password": "admin",
+        "profil": "admin",
+        "photo": "admin.jpg"
+    },
+    {
+        "prenom": "joueur",
+        "nom": "joueur",
+        "login": "joueur",
+        "password": "joueur",
+        "profil": "joueur",
+        "photo": "joueur.jpg"
+    },
+    {
+        "prenom": "Astou",
+        "nom": "ba",
+        "login": "as",
+        "password": "passer",
+        "profil": "joueur",
+        "photo": null,
+        "score": 0
+    },
+    {
+        "prenom": "Aissatou",
+        "nom": "Diallo",
+        "login": "niara",
+        "password": "passer",
+        "profil": "admin",
+        "photo": null,
+        "score": 0
+    },
+    {
+        "prenom": "Abdoulaye",
+        "nom": "Dia",
+        "login": "djibi",
+        "password": "passer",
+        "profil": "admin",
+        "photo": null,
+        "score": 0
+    },
+    {
+        "prenom": "BOUBACAR",
+        "nom": "DIALLO",
+        "login": "boubs",
+        "password": "passer",
+        "profil": "admin",
+        "photo": null,
+        "score": 0
+    },
+    {
+        "prenom": "Ibrahima",
+        "nom": "Sy",
+        "login": "sy",
+        "password": "pa",
+        "profil": "joueur",
+        "photo": null,
+        "score": 0
+    },
+    {
+        "prenom": "dabakh",
+        "nom": "hathie",
+        "login": "ziza",
+        "password": "passer",
+        "profil": "admin",
+        "photo": null,
+        "score": 0
+    },
+    {
+        "prenom": "oumar",
+        "nom": "hathie",
+        "login": "omzo",
+        "password": "po",
+        "profil": "admin",
+        "photo": null,
+        "score": 0
+    },
+    {
+        "prenom": "OUMAR",
+        "nom": "sy",
+        "login": "bella",
+        "password": "passer",
+        "profil": "admin",
+        "photo": ".\\\/public\\\/images20200508025113.PNG",
+        "score": 0
+    },
+    {
+        "prenom": "Mamy",
+        "nom": "DIALLO",
+        "login": "mams",
+        "password": "passer",
+        "profil": "admin",
+        "photo": ".\\\/public\\\/images20200508025242.PNG",
+        "score": 0
+    },
+    {
+        "prenom": "Abdou",
+        "nom": "DIALLO",
+        "login": "Khadre",
+        "password": "passer",
+        "profil": "joueur",
+        "photo": ".\\\/public\\\/images20200508025812.PNG",
+        "score": 0
+    }
+]
